@@ -20,6 +20,10 @@ A backend fare calculation script for a fictional ride-sharing startup, CityCab.
 2. Run `python Farecalc.py`
 3. Enter distance, hour of travel, and vehicle type when prompted
 
+**Output**
+
+![Python Use Case](Python%20use%20case.png)
+
 ---
 
 ## 2. SQL — Digital Library Audit
@@ -41,3 +45,8 @@ A relational database system for managing a digital library — tracking books, 
 1. Open SQL Server Management Studio (SSMS)
 2. Create a new query and paste the script from `Digitallib.sql`
 3. Run the script and view results in the output grid
+
+**Output**
+
+![Result 1](result1.png)
+![Result 2](Result2.png)

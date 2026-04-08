@@ -1,33 +1,43 @@
-# Digital Library SQL Project
+# Virtusa Use Case Projects
 
-### Name : Siddharth V - SRMIST,Chennai - Siddx.1184@gmail.com
+**Name:** Siddharth V — SRMIST, Chennai
+**Contact:** Siddx.1184@gmail.com
 
-## Overview
+---
 
-This project implements a simple relational database for managing a digital library system. It tracks books, students, and issued books, and includes queries to analyze overdue records and borrowing trends.
+## 1. Python — FareCalc Travel Optimizer
 
-## Tables
+A backend fare calculation script for a fictional ride-sharing startup, CityCab.
 
-* **Books** – Stores book details (title, author, category)
-* **Students** – Stores student information
-* **IssuedBooks** – Tracks which student borrowed which book and when
+**Features**
+- Calculates fares based on distance and vehicle type (Economy, Premium, SUV)
+- Applies a 1.5x surge multiplier during peak hours (17:00 – 20:00)
+- Handles invalid vehicle input with a clear error message
+- Prints a formatted price receipt to the terminal
 
-## Features
+**How to Run**
+1. Open a terminal and navigate to the project folder
+2. Run `python Farecalc.py`
+3. Enter distance, hour of travel, and vehicle type when prompted
 
-* Identify books that are overdue (not returned within 14 days)
-* Find the most borrowed book categories
-* Remove inactive student records (no activity for 3+ years)
-* Calculate a simple fine for overdue books
+---
 
-## How to Run
+## 2. SQL — Digital Library Audit
 
+A relational database system for managing a digital library — tracking books, students, and borrowing activity.
+
+**Tables**
+- `Books` — Book details (title, author, category)
+- `Students` — Student information
+- `IssuedBooks` — Borrowing records with issue and return dates
+
+**Features**
+- Identifies overdue books (not returned within 14 days)
+- Finds the most borrowed book categories
+- Removes inactive student records (no activity for 3+ years)
+- Calculates fines at ₹5 per day after the 14-day limit
+
+**How to Run**
 1. Open SQL Server Management Studio (SSMS)
-2. Create a new query
-3. Copy and run the SQL script provided
-4. View results in the output grid
-
-## Notes
-
-* The script includes sample data for testing
-* Fine is calculated as ₹5 per day after 14 days
-* Designed using basic SQL concepts like JOIN, GROUP BY, and DATEDIFF
+2. Create a new query and paste the script from `Digitallib.sql`
+3. Run the script and view results in the output grid

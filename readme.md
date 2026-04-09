@@ -26,7 +26,7 @@ Virtusa-UseCase-Projects/
 </pre>
 
 
-## 1. Python — FareCalc Travel Optimizer
+## 1. Python — The FareCalc Travel Optimizer
 
 A backend fare calculation script for a fictional ride-sharing startup, CityCab.
 
@@ -47,7 +47,7 @@ A backend fare calculation script for a fictional ride-sharing startup, CityCab.
 
 ---
 
-## 2. SQL — Digital Library Audit
+## 2. SQL — The Digital Library Audit
 
 A relational database system for managing a digital library — tracking books, students, and borrowing activity.
 
@@ -73,7 +73,7 @@ A relational database system for managing a digital library — tracking books, 
 ![Result 2](SQL/RES3.png)
 ![Result 2](SQL/RES2.png)
 
-## 3. Java — SafeLog Password Validator
+## 3. Java — The SafeLog Password Validator
 
 A simple console-based application designed to enforce strong password creation based on predefined security rules.
 

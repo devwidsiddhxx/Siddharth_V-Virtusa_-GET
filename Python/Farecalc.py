@@ -43,7 +43,7 @@ def calculate_fare(km, vehicle_type, hour):
         "final_fare":    final_fare,
     }
 
-
+#printing statements
 def print_receipt(km, vehicle_type, hour, result):
     """Print a formatted price receipt to the console."""
     rate = VEHICLE_RATES[vehicle_type]

@@ -91,3 +91,5 @@ A simple console-based application designed to enforce strong password creation 
 2. Compile the file
 3. Run the program
 4. Enter passwords until it gets accepted.
+
+![Result 1](Java/Result.png)

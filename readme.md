@@ -3,6 +3,22 @@
 **Name:** Siddharth V - SRMIST, Chennai
 **Contact:** Siddx.1184@gmail.com
 
+## 📂 Project Structure
+Python/
+  Farecalc.py
+  Python use case.png
+
+SQL/
+  Digitallib.sql
+  RES1.png
+  RES2.png
+  RES3.png
+
+Java/
+  SafeLog.java (or PasswordValidator.java)
+  Result.png
+
+README.md
 ---
 
 ## 1. Python — FareCalc Travel Optimizer
@@ -51,3 +67,27 @@ A relational database system for managing a digital library — tracking books, 
 ![Result 1](SQL/RES1.png)
 ![Result 2](SQL/RES3.png)
 ![Result 2](SQL/RES2.png)
+
+## 3. Java — SafeLog Password Validator
+
+A simple console-based application designed to enforce strong password creation based on predefined security rules.
+
+**Features**
+- Validates password length (minimum 8 characters)
+- Ensures at least one uppercase letter is present
+- Ensures at least one numeric digit is included
+- Provides clear feedback for each failed condition
+- Continuously prompts the user until a valid password is entered
+
+**Concepts Used**
+- Loops (`while`, `for`)
+- Conditional statements (`if-else`)
+- String manipulation
+- Built-in `Character` methods (`isUpperCase`, `isDigit`)
+- User input handling using `Scanner`
+
+**How to Run**
+1. Open a terminal in the `Java` folder  
+2. Compile the file
+3. Run the program
+4. Enter passwords until it gets accepted.

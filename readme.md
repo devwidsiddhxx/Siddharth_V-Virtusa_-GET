@@ -4,25 +4,27 @@
 **Contact:** Siddx.1184@gmail.com
 
 ## 📂 Project Structure
+
+<pre>
 Virtusa-UseCase-Projects/
 │
 ├── Python/
-│ ├── Farecalc.py
-│ └── Python use case.png
+│   ├── Farecalc.py
+│   └── Python use case.png
 │
 ├── SQL/
-│ ├── Digitallib.sql
-│ ├── RES1.png
-│ ├── RES2.png
-│ └── RES3.png
+│   ├── Digitallib.sql
+│   ├── RES1.png
+│   ├── RES2.png
+│   └── RES3.png
 │
 ├── Java/
-│ ├── SafeLog.java
-│ └── Result.png
+│   ├── SafeLog.java
+│   └── Result.png
 │
 └── README.md
+</pre>
 
-'''
 
 ## 1. Python — FareCalc Travel Optimizer
 

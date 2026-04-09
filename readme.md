@@ -22,7 +22,7 @@ A backend fare calculation script for a fictional ride-sharing startup, CityCab.
 
 **Output**
 
-![Python Use Case](Python/Python_use_case.png)
+![Python Use Case](Python/Python%20use%20case.png)
 
 ---
 

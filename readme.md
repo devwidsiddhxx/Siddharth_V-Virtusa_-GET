@@ -4,21 +4,23 @@
 **Contact:** Siddx.1184@gmail.com
 
 ## 📂 Project Structure
-Python/
-  Farecalc.py
-  Python use case.png
-
-SQL/
-  Digitallib.sql
-  RES1.png
-  RES2.png
-  RES3.png
-
-Java/
-  SafeLog.java (or PasswordValidator.java)
-  Result.png
-
-README.md
+Virtusa-UseCase-Projects/
+│
+├── Python/
+│ ├── Farecalc.py
+│ └── Python use case.png
+│
+├── SQL/
+│ ├── Digitallib.sql
+│ ├── RES1.png
+│ ├── RES2.png
+│ └── RES3.png
+│
+├── Java/
+│ ├── SafeLog.java
+│ └── Result.png
+│
+└── README.md
 ---
 
 ## 1. Python — FareCalc Travel Optimizer

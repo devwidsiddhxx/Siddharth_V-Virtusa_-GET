@@ -48,5 +48,5 @@ A relational database system for managing a digital library — tracking books, 
 
 **Output**
 
-![Result 1](SQL/SQL1.png)
-![Result 2](SQL/SQL2.png)
+![Result 1](SQL/RES1.png)
+![Result 2](SQL/RES2.png)

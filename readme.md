@@ -98,3 +98,10 @@ A simple console-based application designed to enforce strong password creation 
 4. Enter passwords until it gets accepted.
 
 ![Result 1](Java/Result.png)
+
+## Notes
+
+* All work has been completed individually
+* The solutions are written with clear understanding
+  
+---

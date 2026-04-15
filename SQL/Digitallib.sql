@@ -78,7 +78,7 @@ WHERE LastActiveDate < DATEADD(YEAR, -3, GETDATE())
 DELETE FROM Students
 WHERE LastActiveDate < DATEADD(YEAR, -3, GETDATE());
 
--- 6. Simple Enhancement: Fine Calculation
+-- 6.Fine Calculation #extra feature
 
 SELECT
 s.Name,

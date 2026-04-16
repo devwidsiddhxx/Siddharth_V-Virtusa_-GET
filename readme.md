@@ -21,7 +21,6 @@ Virtusa-UseCase-Projects/
 ├── Java/
 │   ├── SafeLog.java
 │   └── Result.png
-│----- mini-project
 └── README.md
 </pre>
 

@@ -15,6 +15,8 @@ A simple console-based Java application to manage library operations like adding
 - Collections Framework
 - Java Time API
 
+![Java Mini project](./java.png)
+
 ## How to Run
 1. Compile:
    javac *.java

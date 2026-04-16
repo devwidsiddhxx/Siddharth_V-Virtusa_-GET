@@ -14,6 +14,8 @@ Most recommendation engines start with a well-designed schema and a solid query 
 - **Behaviour analytics** — completion rates, drop-off detection, genre affinity, age-group segmentation
 - **Reusable views & functions** — so application code stays thin
 
+- 
+![Result 1] (mini-project/Sql mini project.png) 
 
 ## Schema
 

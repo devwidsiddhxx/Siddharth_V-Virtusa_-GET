@@ -1,4 +1,4 @@
-# Virtusa Use Case Projects and Mini - projects
+# Virtusa Use Case Projects and Mini - Projects
 
 **Name:** Siddharth V - SRMIST, Chennai
 **Contact:** Siddx.1184@gmail.com
